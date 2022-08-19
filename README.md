@@ -9,7 +9,7 @@ I'm Ivan G Torre, AI Researcher at the Language and Speech Laboratory at EHU in 
 <li>👨‍💻 Some of my projects are available on <a href="https://github.com/ivangtorre">Github</a>.</li>
 <li>💬 Ping me if you want to collaborate.</li>
 <li>📙 Check out my <a href="https://www.ivangtorre.com">resume</a>.</li>
-<li>🤖 Paul Erdős distance: 5
+<li>🤖 Paul Erdős <a href="https://www.csauthors.net/distance/ivan-gonzalez-torre/paul-erdos">distance</a>: 5
 <li>🎉 Fun Fact: contemporary circus performer
 </ul>
 
