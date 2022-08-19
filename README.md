@@ -1,16 +1,22 @@
-### Hi there 👋
+### Nice to see you 👋
 
-<!--
-**ivangtorre/ivangtorre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ivan G Torre, AI Researcher at the Language and Speech Laboratory at EHU in Vitoria, Spain, although I actually actively collaborate with partners worldwide </p>
 
-Here are some ideas to get you started:
+<h2>⚡️ A Few Quick Facts</h2>
+<ul>
+<li>🔭 I’m currently working at the Language and Speech Laboratory-EHU.</li>
+<li>🧐 Learning about <strong>unsupervised ASR</strong>, <strong>optimization methods</strong>, and <strong>difussion models</strong>.</li>
+<li>👨‍💻 Some of my projects are available on <a href="https://github.com/ivangtorre">Github</a>.</li>
+<li>💬 Ping me about if you want to collaborate.</li>
+<li>📙 Check out my <a href="https://www.ivangtorre.com">resume</a>.</li>
+<li>🎉 Fun Fact: contemporary circus performer
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Where to find me</h3>
+<p><a href="https://github.com/ivangtorre" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/ivangtorre" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ivan-gonzalez-torre-cvitae/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</p>
+
+
+
+
+
