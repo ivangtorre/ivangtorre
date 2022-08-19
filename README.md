@@ -1,6 +1,6 @@
 ### Nice to see you 👋
 
-I'm Ivan G Torre, AI Researcher at the Language and Speech Laboratory at EHU in Vitoria, Spain, although I actually actively collaborate with partners worldwide </p>
+I'm Ivan G Torre, AI Researcher at the Language and Speech Laboratory at EHU in Vitoria, Spain, but actively collaborating with partners worldwide </p>
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
