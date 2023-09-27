@@ -1,11 +1,11 @@
 ### Nice to see you 👋
 
-I'm Ivan G Torre, AI Researcher at the Language and Speech Laboratory at EHU in Vitoria, Spain, but actively collaborating with partners worldwide </p>
+I'm Ivan G Torre, AI Researcher at Oracle.</p>
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working at the Language and Speech Laboratory-EHU.</li>
-<li>🧐 Learning about <strong>unsupervised ASR</strong>, <strong>optimization methods</strong>, and <strong>difussion models</strong>.</li>
+<li>🔭 I’m currently working at Oracle.</li>
+<li>🧐 Learning about <strong>unsupervised ASR</strong>, <strong>clustering methods</strong>, and <strong>GNNs</strong>.</li>
 <li>👨‍💻 Some of my projects are available on <a href="https://github.com/ivangtorre">Github</a>.</li>
 <li>💬 Ping me if you want to collaborate.</li>
 <li>📙 Check out my <a href="https://www.ivangtorre.com">resume</a>.</li>
